@@ -1,2 +1,3 @@
 # hello-world
 My first repository, without any real purpose
+Still no purpose to do that at work, but...
